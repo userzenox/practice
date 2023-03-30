@@ -1,2 +1,2 @@
-hello 
-just learning the basics og github again
+hello there
+just learning the basics of Github again
